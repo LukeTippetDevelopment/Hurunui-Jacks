@@ -5005,7 +5005,7 @@ License - nucleoapp.com/license/
 }
 
 .img-rounded {
-  border-radius: 12px;
+  border-radius: 2px;
   transition: opacity 0.5s ease 0s;
   max-width: 100%;
 }
