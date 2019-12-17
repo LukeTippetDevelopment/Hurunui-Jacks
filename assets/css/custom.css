@@ -1,3 +1,14 @@
-.imgHJacksCC{
-    width:80px;
+.imgHJacksCC {
+    width: 80px;
 }
+
+.bannerContent {
+    padding-top: 75%;
+    text-shadow: 2px 2px #000000
+}
+
+.aHJacksCC,
+.aHJacksAirbnb {
+    padding-top: 30px;
+    padding-bottom: 10px;
+    display: block;
