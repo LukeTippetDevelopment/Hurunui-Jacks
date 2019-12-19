@@ -17,3 +17,7 @@
 .logo {
     height: 75px;
 }
+
+.section-dark {
+    color: #fff !important;
+}
